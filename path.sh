@@ -1,0 +1,1 @@
+export PATH=/Work18/2020/chaimengxin/anaconda3/bin/:$PATH
